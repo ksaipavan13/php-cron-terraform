@@ -1,4 +1,3 @@
 echo ".terraform/" >> .gitignore
-git add .gitignore
-git commit -m "Exclude .terraform directory from Git"
+echo "lambda_function.zip" >> .gitignore
 
