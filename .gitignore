@@ -1,3 +1,2 @@
 echo ".terraform/" >> .gitignore
 echo "lambda_function.zip" >> .gitignore
-
